@@ -1,0 +1,25 @@
+#hmenu{
+    margin: 0px auto;
+    width: 750px;
+}
+.bantin{
+    width: 100%;
+    background-color: lightcyan;
+    margin-bottom: 20px;
+}
+.image img{
+    width: 20%;
+    float: left;
+}
+.bantin_1{
+    width: 70%;
+}
+.congnghe a{
+    text-decoration: none;
+    font-size: larger;
+    color: lightseagreen;
+    font-variant: small-caps;
+}
+.congnghe a:hover{
+    color:maroon;
+}
